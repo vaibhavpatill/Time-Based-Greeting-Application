@@ -1,2 +1,2 @@
 # Time-Based-Greeting-Application
-The application will greet user according to time
+The application will greet user according to time.
